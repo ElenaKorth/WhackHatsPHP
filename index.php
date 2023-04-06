@@ -37,10 +37,14 @@
 </div>
  
 <!-- Banner -->
-<button id="btnScrollToTop">
-  <i class='fa fa-arrow-up'></i>
-</button>
 
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <video> <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="..."></video>
+    </div>
+  </div>
+</div>
 <div class="container-fluid banner">
 
   <div class="container-fluid">
