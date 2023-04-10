@@ -41,7 +41,9 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <video> <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="..."></video>
+      <video> 
+        <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="...">
+      </video>
     </div>
   </div>
 </div>
