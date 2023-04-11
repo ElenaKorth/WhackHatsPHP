@@ -1,3 +1,8 @@
+<?php
+  include_once 'includes/dbh.php';
+?>
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -41,9 +46,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <video> 
-        <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="...">
-      </video>
+        <iframe src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="..." width="100%" height ="20%"></iframe>
     </div>
   </div>
 </div>
