@@ -1,7 +1,6 @@
 <?php
-  include_once 'includes/dbh.php';
+  include_once 'dbh.php';
 ?>
-
 
 <!doctype html>
 <html lang="en">
@@ -21,7 +20,7 @@
 
 <!-- Navbar -->
     
-<div id="navone" class="">
+<div id="navone">
   <nav class="fixed-top nav-bg">
     <img src="https://drive.google.com/uc?export=view&id=1J9w89WRqfzLlnS8A2qI3LDbfU7UYAoBm" height="125px" width="210px"></img>
       <ul>
