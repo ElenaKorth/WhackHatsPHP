@@ -1,6 +1,6 @@
-<?php
+<!-- <?php
   include_once 'dbh.php';
-?>
+?> -->
 
 <!doctype html>
 <html lang="en">
@@ -16,7 +16,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Modak&display=swap" rel="stylesheet">
   </head>
-<body>
+<body id="gradient">
 
 <!-- Navbar -->
     
@@ -25,30 +25,29 @@
     <img src="https://drive.google.com/uc?export=view&id=1J9w89WRqfzLlnS8A2qI3LDbfU7UYAoBm" height="125px" width="210px"></img>
       <ul>
         <li><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.."></li>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="everyday.html">Everyday Hats</a></li>
-            <li><a class="dropdown-item" href="fashion.html">Fashion Hats</a></li>
-            <li><a class="dropdown-item" href="costume.html">Costume Hats</a></li>
+            <li><a class="dropdown-item" href="everyday.php">Everyday Hats</a></li>
+            <li><a class="dropdown-item" href="fashion.php">Fashion Hats</a></li>
+            <li><a class="dropdown-item" href="costume.php">Costume Hats</a></li>
           </ul>
         </li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="about.php">About</a></li>
         <li><a href="#"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
       </ul>
   </nav>
 </div>
  
 <!-- Banner -->
-
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-        <iframe src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" class="d-block w-100" alt="..." width="100%" height ="20%"></iframe>
-    </div>
+  <div class="hero">
+    <video width="100%" height="100%" autoplay muted plays-inline class="back-video">
+      <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" type="video/mp4">
+    </video>
   </div>
-</div>
+    
+<!-- 
 <div class="container-fluid banner">
 
   <div class="container-fluid">
@@ -64,7 +63,7 @@
     </div>
   </div>
    
-  <div class="container-fluid">
+   <div class="container-fluid">
     <div class="row">
       <div class="col">    
         <ul> 
@@ -79,12 +78,12 @@
         <img src="https://drive.google.com/uc?export=view&id=1CU2s1FunSbmDRDXc2GdTf_7UalWIyP4Q" height="375px">
       </div>
     </div>
-  </div>
+  </div> 
 
-</div>
+</div> -->
 
 <!-- Waves -->
-        
+  
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF99CF" fill-opacity="1" d="M0,0L40,48C80,96,160,192,240,197.3C320,203,400,117,480,90.7C560,64,640,96,720,138.7C800,181,880,235,960,218.7C1040,203,1120,117,1200,106.7C1280,96,1360,160,1400,192L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF99CF" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
 
