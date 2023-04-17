@@ -1,4 +1,4 @@
-#gradient {
+body {
   background: hsla(55, 90%, 67%, 1);
 
 background: linear-gradient(0deg, hsla(55, 90%, 67%, 1) 0%, hsla(18, 98%, 62%, 1) 26%, hsla(345, 100%, 68%, 1) 53%, hsla(288, 57%, 55%, 1) 78%);
