@@ -73,9 +73,9 @@
             <div class="animated-mail">
               <div class="back-fold"></div>
                 <div class="letter">
-                  <div class="letter-border"></div>
-                  <div class="letter-title" style="font-size:7px;">Whack Hats...</div> <!-- font-family/placeholder -->
-                  <div class="letter-context"><h4><a href="">CLICK HERE TO READ</a></h4></div>
+                  <div class="letter-context">
+                     <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L">
+                  </div>
                   <div class="letter-stamp">
                     <div class="letter-stamp-inner"></div>
                   </div>

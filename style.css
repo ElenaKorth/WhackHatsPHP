@@ -292,8 +292,8 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7EA60", en
   
   /* about us page animations */
   .letter-image {
-    padding-left: 50%;
-    padding-top: 80%;
+    padding-left: 0%;
+    padding-top: 0%;
     top: 0%;
     left: 0%;
     width: 0px;
@@ -358,46 +358,18 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7EA60", en
     z-index: 2;
   }
   .animated-mail .letter {
-    left: 20px;
     bottom: 0px;
     position: absolute;
     width: 160px;
-    height: 60px;
-    background: white;
+    background: yellow;
     z-index: 1;
     overflow: hidden;
     -webkit-transition: 0.4s 0.2s;
     -moz-transition: 0.4s 0.2s;
     transition: 0.4s 0.2s;
   }
-  .animated-mail .letter .letter-border {
-    height: 10px;
-    width: 100%;
-    background: repeating-linear-gradient(-45deg, rgb(224, 126, 248),rgb(224, 126, 248) 8px, transparent 8px, transparent 18px);
-  }
-  .animated-mail .letter .letter-title {
-    margin-top: 10px;
-    margin-left: 5px;
-    height: 10px;
-    width: 40%;
-    background: hsla(288, 55%, 55%, 1);
-  }
-  .animated-mail .letter .letter-context {
-    margin-top: 10px;
-    margin-left: 5px;
-    height: 80px;
-    width: 90%;
-    background: rgb(224, 126, 248);
-  }
-  .animated-mail .letter .letter-stamp {
-    margin-top: 30px;
-    margin-left: 120px;
-    border-radius: 10%;
-    height: 40px;
-    width: 30px;
-    background: rgb(224, 126, 248);
-    opacity: 0.3;
-  }
+
+
   .shadow {
     position: absolute;
     top: 210px;
@@ -434,7 +406,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7EA60", en
     width: 250px;
   }
   
-  
+
   
   /* hover-letter attempt */
   
@@ -554,3 +526,5 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7EA60", en
     margin-bottom: 160%;
     font-family: 'Modak', cursive;
   }
+
+  
