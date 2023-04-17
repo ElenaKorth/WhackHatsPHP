@@ -42,7 +42,7 @@
  
 <!-- Banner -->
   <div class="hero">
-    <video width="100%" height="100%" autoplay muted plays-inline class="back-video">
+    <video width="100%" height="100%" autoplay muted plays-inline controls preload="true" class="back-video">
       <source src="https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm" type="video/mp4">
     </video>
   </div>
