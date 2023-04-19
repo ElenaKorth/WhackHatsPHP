@@ -290,10 +290,11 @@ body {
       }
   }
   
+
   /* about us page animations */
   .letter-image {
-    padding-left: 0%;
-    padding-top: 0%;
+    padding-left: 50%;
+    padding-top: 80%;
     top: 0%;
     left: 0%;
     width: 0px;
@@ -358,18 +359,46 @@ body {
     z-index: 2;
   }
   .animated-mail .letter {
+    left: 20px;
     bottom: 0px;
     position: absolute;
     width: 160px;
-    background: yellow;
+    height: 60px;
+    background: white;
     z-index: 1;
     overflow: hidden;
     -webkit-transition: 0.4s 0.2s;
     -moz-transition: 0.4s 0.2s;
     transition: 0.4s 0.2s;
   }
-
-
+  .animated-mail .letter .letter-border {
+    height: 10px;
+    width: 100%;
+    background: repeating-linear-gradient(-45deg, rgb(224, 126, 248),rgb(224, 126, 248) 8px, transparent 8px, transparent 18px);
+  }
+  .animated-mail .letter .letter-title {
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 10px;
+    width: 40%;
+    background: hsla(288, 55%, 55%, 1);
+  }
+  .animated-mail .letter .letter-context {
+    margin-top: 0px;
+    margin-left: 0px;
+    height: 280px;
+    width: 100%;
+    background: rgb(224, 126, 248);
+  }
+  .animated-mail .letter .letter-stamp {
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 10%;
+    height: 40px;
+    width: 30px;
+    background: rgb(224, 126, 248);
+    opacity: 0.3;
+  }
   .shadow {
     position: absolute;
     top: 210px;
@@ -405,23 +434,6 @@ body {
   .letter-image:hover .shadow {
     width: 250px;
   }
-  
-
-  
-  /* hover-letter attempt */
-  
-  #abe-letter {
-    background-image: url('https://drive.google.com/uc?export=view&id=1Fv8vUokGhf24Fc2Y8ltmro-C7nqx3stp');
-    height: 70px;
-    width: 120px;
-  }
-  
-  #abe-letter:hover {
-    background-image: url('https://drive.google.com/uc?export=view&id=1I0ZMTPd8P-1mwGkhEA1ALVAxkiZmVsVg');
-    height: 200px;
-    width: 75px;
-  }
-  
   
   
   

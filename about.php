@@ -23,7 +23,7 @@
             <li>
             <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search..">
             </li>
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" 
                   href="shop.html" 
@@ -74,11 +74,24 @@
               <div class="back-fold"></div>
                 <div class="letter">
                   <div class="letter-context">
-                     <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L">
-                  </div>
-                  <div class="letter-stamp">
-                    <div class="letter-stamp-inner"></div>
-                  </div>
+                  <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                  <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L" height="100%" width="100%"></button>
+                  
+                    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+                          <div class="modal-body">
+                          <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L" height="100%" width="100%"> 
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Understood</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+            
+                    </div>
                 </div>
               <div class="top-fold"></div>
               <div class="body"></div>
