@@ -89,32 +89,6 @@ body {
     /* end of navbar */
   
   /* banner */
-.hero {
-  position: relative;
-  padding: 0 5%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.back-video {
-  position:absolute;
-  right: 0;
-  bottom: 0;
-  z-index: -1;
-}
-@media (min-aspect-ration: 16/9){
-  .back-video{
-    width: 100%;
-    height:auto;
-  }
-}
-@media (max-aspect-ration: 16/9){
-  .back-video{
-    width: auto;
-    height:100%;
-  }
-}
 
 
   .banner{
@@ -435,8 +409,53 @@ body {
     width: 250px;
   }
   
-  
-  
+  /* Modal */
+.fa-regular {
+  color:purple;
+  margin-left:90%;
+  height:40%;
+}
+/* 
+icons */
+.fa-solid:hover{
+  color: #7fffee;
+  }
+
+/* .fa-solid { */
+  color:white;
+  font-size:200px;
+  width:300px;
+
+
+
+.fa-hat-wizard {
+  color:white;
+  font-size:200px;
+  width:300px;
+  margin-left: 90px;
+}
+
+.hat-icon {
+  color:white;
+  font-size:200px;
+  width:300px;
+  text-align: center;
+}
+
+
+.fa-brands {
+  color:white;
+  font-size:200px;
+  width:300px;
+}
+
+.fa-brands:hover{
+  color: #7fffee;
+  }
+
+.fa-brands i:hover{
+  color: #7fffee;
+  }
   /* cards please work*/
   
   .card-pic {
