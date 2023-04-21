@@ -41,14 +41,13 @@
 </div>
  
 <!-- Banner -->
-    <video autoplay muted plays-inline controls preload="true">
-      <source src="Hats(2).mp4" type="video/mp4">
+<div class="container-fluid">
+    <video autoplay muted plays-inline preload="true" style="width: inherit;">
+      <source src="Hats (2).mp4" type="video/mp4">
     
     </video>
+</div>
   
-  <video class="w-100" autoplay loop muted>
-  <source src="https://mdbootstrap.com/img/video/animation-intro.mp4" type="video/mp4" />
-</video>
 <!-- https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm -->
 <!-- 
 <div class="container-fluid banner">
