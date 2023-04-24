@@ -1,6 +1,3 @@
-<!-- <?php
-  include_once 'dbh.php';
-?> -->
 
 <!doctype html>
 <html lang="en">
@@ -39,6 +36,7 @@
       </ul>
   </nav>
 </div>
+
  
 <!-- Banner -->
 <div class="container-fluid">
@@ -48,46 +46,12 @@
     </video>
 </div>
   
-<!-- https://drive.google.com/uc?export=view&id=152i9TyRjBdfdVeuBrCD8C9Pcl93Fb5Rm -->
-<!-- 
-<div class="container-fluid banner">
 
-  <div class="container-fluid">
-    <div class="row plscenter">
-      <div class="col">
-        <img style="padding-left:50px;" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" height="350px">
-      </div>
-      <div class="col">
-        <br>
-        <h1 style="color: white;" id="b-h1">Hats</h1>
-        <h1 style="color: white;" id="b-h1">Hats...</h1>
-      </div>
-    </div>
-  </div>
-   
-   <div class="container-fluid">
-    <div class="row">
-      <div class="col">    
-        <ul> 
-          <br>    
-          <h4 style="color: white;" id="and-more">And More</h4>
-        </ul>
-        <ul>     
-          <h1 style="color: white;" id="b-h1">Hats!</h1>
-        </ul>
-      </div>
-      <div class="col">
-        <img src="https://drive.google.com/uc?export=view&id=1CU2s1FunSbmDRDXc2GdTf_7UalWIyP4Q" height="375px">
-      </div>
-    </div>
-  </div> 
-
-</div> -->
 
 <!-- Waves -->
   
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF99CF" fill-opacity="1" d="M0,0L40,48C80,96,160,192,240,197.3C320,203,400,117,480,90.7C560,64,640,96,720,138.7C800,181,880,235,960,218.7C1040,203,1120,117,1200,106.7C1280,96,1360,160,1400,192L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF99CF" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E190FF" fill-opacity="1" d="M0,0L40,48C80,96,160,192,240,197.3C320,203,400,117,480,90.7C560,64,640,96,720,138.7C800,181,880,235,960,218.7C1040,203,1120,117,1200,106.7C1280,96,1360,160,1400,192L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E190FF" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
 
 <br><br>
 
@@ -96,7 +60,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h1 style="color:white; font-size:150px;">New Arrivals</h1>
+      <h1 style="color:white; font-size:150px;">Bestsellers</h1>
     </div>
   </div>
 </div>
@@ -171,16 +135,15 @@
 
 <!-- Waves -->
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ff4b7c" fill-opacity="1" d="M0,128L40,154.7C80,181,160,235,240,213.3C320,192,400,96,480,58.7C560,21,640,43,720,74.7C800,107,880,149,960,181.3C1040,213,1120,235,1200,218.7C1280,203,1360,149,1400,122.7L1440,96L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ff4b7c" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF7FC5" fill-opacity="1" d="M0,128L40,154.7C80,181,160,235,240,213.3C320,192,400,96,480,58.7C560,21,640,43,720,74.7C800,107,880,149,960,181.3C1040,213,1120,235,1200,218.7C1280,203,1360,149,1400,122.7L1440,96L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FF7FC5" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
  
 
-  <!-- <img src="https://drive.google.com/uc?export=view&id=1NldvbdfRcjn8Ekf4XZHJOQzUbJ3wrD9W" height="500px"> -->
 
 <!-- Carousel -->
 
 
-    <div class="containerfluid potato" style="height: 725px;">
+    <div class="containerfluid potato" style="height: 765px;">
       <div class="row">
         <div class="col-md-3">
           <div class="carousel slide car-center" id="slides" data-bs-ride="carousel" style="width: 420px; margin-left: 350px;">
@@ -195,58 +158,50 @@
             
             <div class="carousel-inner container">
               <div class="carousel-item active">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX" alt="Fashion Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Simple Elegant</div>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" alt="Costume Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Purple Sequence</div>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" alt="Everyday Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=1hxN0i_P11oJXdPQRyY4Qy5HIZwhL_ps9">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Little Red</div>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="image" src="" alt="Fashion Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=18YpH5CRo9Sqv_kd2mL03FmLgphDGX3JU">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Boo Bucket</div>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" alt="Costume Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=11Zzy1ba5h8uFxQOX8PDwz5mTrXN1buRP">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Sombrero</div>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" alt="Everyday Hat">
+                <img class="image" src="https://drive.google.com/uc?export=view&id=1-0JG5J1jPp6xdkPi94ca5WYtYWFYe30I">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">John Doe</div>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">John Doe</div>
+                    <div class="text">Rainbow Top Hat</div>
                   </div>
                 </div>
               </div>
@@ -261,118 +216,49 @@
         </div>
       </div>
     </div>
-    <!-- Testimonials -->
-    
-<!-- reveal -->
-    <div class="container" style="margin-top: 5%;">
-      <div class="row"></div>
-      <h1>Testimonials</h1>
-      <div class="cards">
-        <div class="text-card">
-          <h3>Title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </div>
-        <div class="text-card">
-          <h3>Title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </div>
-        <div class="text-card">
-          <h3>Title</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </div>
-      </div>
-      </div>
-    </div>
- 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="hsla(9, 98%, 62%, 1)" fill-opacity="1" d="M0,0L40,48C80,96,160,192,240,197.3C320,203,400,117,480,90.7C560,64,640,96,720,138.7C800,181,880,235,960,218.7C1040,203,1120,117,1200,106.7C1280,96,1360,160,1400,192L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="hsla(9, 98%, 62%, 1)" fill-opacity="1" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
+
+
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FFFFBD" fill-opacity=".3" d="M0,0L40,48C80,96,160,192,240,197.3C320,203,400,117,480,90.7C560,64,640,96,720,138.7C800,181,880,235,960,218.7C1040,203,1120,117,1200,106.7C1280,96,1360,160,1400,192L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FFFFBD" fill-opacity=".3" d="M0,256L40,234.7C80,213,160,171,240,133.3C320,96,400,64,480,80C560,96,640,160,720,202.7C800,245,880,267,960,240C1040,213,1120,139,1200,128C1280,117,1360,171,1400,197.3L1440,224L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
  
 
-  <!-- Best Sellers -->
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1 style="color:white; font-size:150px;">Best Sellers</h1>
-      </div>
+<!-- Testimonials -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 style="color:white; font-size:150px;">Testimonials</h1>
     </div>
   </div>
-
+</div>
+    
 <div class="containerfluid mx-auto d-block">
 
-  <div class="row">
-    <div class="col-lg-4">
-      <article id="rcorners1">
-        <img src="https://drive.google.com/uc?export=view&id=1VlbimLQcZfiGf7Rg11BNNm-HEHppDdDL" class="card-img" height="200px" alt="Sample photo">
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-4">
-      <div class="container">
-      <article id="rcorners1">
-        <img src="https://drive.google.com/uc?export=view&id=1f_nOnWRgEUz1DPVURVKlr9J8NWOBHJrI" class="card-img" height="200px" alt="Sample photo">
-        <div class="overlay">
-          <div class="textthree">Hello World</div>
-        </div>
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article>
-    </div>
-    </div>
-    <div class="col-lg-4">
-      <div class="container">
-      <article id="rcorners1">
-          <img src="https://drive.google.com/uc?export=view&id=123flg3e4p2tXPaRGU3CuLK4cVmFF3Ais" class="card-img" height="200px" alt="Sample photo">
-            <div class="overlay">
-              <div class="textthree">Hello World</div>
-            </div>
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article>
-    </div>
-    </div>
+<div class="row">
+  <div class="col-md-4 testimonialcard">
+    <img src="https://drive.google.com/uc?export=view&id=1c62BK9Uy5rrhKpD-hEwPmXvFnFLkIGuI" width="400px" height="450px">
+    <br><br>
+    <h1 class="thin">Beyoncé:</h1>
+    <h4 style="text-align:center;">"This cone hat makes me stand out!"</h4>
+  </div>
+  <div class="col-md-4 testimonialcard">
+    <img src="https://drive.google.com/uc?export=view&id=1jDmbfrtVKH7ZaqpMSx9dUOt0vrznKjOy" width="400px" height="450px">
+    <br><br>
+    <h1>DaVinci:</h1>
+    <h4 style="text-align:center;">"Lisa looks lovely in Louis Vuitton!"</h4>
+  </div>
+  <div class="col-md-4 testimonialcard">
+    <img src="https://drive.google.com/uc?export=view&id=1Lcun3hXxfFISgAdzgG6xhy0RzVUr4XCn" width="400px" height="450px">
+    <br><br>
+    <h1>Dorothy:</h1>
+    <h4 style="text-align:center;">"Toto and I look great in our hats!"</h4>
   </div>
 </div>
 
-
-<div class="containerfluid mx-auto d-block" style="margin-top: 30px;">
-
-  <div class="row">
-    <div class="col-lg-4">
-      <article id="rcorners1">
-        <img src="https://drive.google.com/uc?export=view&id=1pzoSq1mLtQnhe6viOuQP_YtuHgOw8L4N" class="card-img" height="200px" alt="Sample photo">
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article></div>
-    <div class="col-lg-4">
-      <article id="rcorners1">
-        <img src="https://drive.google.com/uc?export=view&id=1Tok_cZxwtgAhKAhVfb8TR693L2aU4Kfd" class="card-img" height="200px" alt="Sample photo">
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article>
-    </div>
-    <div class="col-lg-4">
-      <article id="rcorners1">
-        <img src="https://drive.google.com/uc?export=view&id=1iX-b_fTI_hBDQmsxpbXA6go_poVjIgfG" class="card-img" height="200px" alt="Sample photo">
-        <div class="texttwo">
-          <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
-        </div>
-      </article>
-    </div>
-  </div>
 </div>
+
 
 <!-- Footer -->
 
@@ -384,9 +270,8 @@
       <p style="text-align: center;">
         <a href="https://www.instagram.com/markiplier/?hl=en"><i class="fa-brands fa-instagram"  style="color: #ffffff; font-size: 40px;"></i></a>
         <a href="https://twitter.com/Beyonce"><i class="fa-brands fa-twitter"  style="color: #ffffff; font-size: 40px;"></i></a>
-        <a href="#"><i class="fa-brands fa-github" style="color: #ffffff; font-size: 40px;"></i></a>
         <a href="https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"><i class="fa-brands fa-youtube" style="color: #ffffff; font-size: 40px;"></i></a>
-      </p>
+        <a href="https://en.wikipedia.org/wiki/Hat"><i class="fa-brands fa-wikipedia-w" style="color: #ffffff; font-size: 38px;"></i></a></p>
       <p style="text-align: center; color: white;">definetly real copyright© to VeggieTales</p>
     </div>
   </footer>
