@@ -32,10 +32,11 @@
           </ul>
         </li>
         <li><a href="about.php">About</a></li>
-        <li><a href="#"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
+        <li><a href="cart.php"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
       </ul>
   </nav>
 </div>
+
 
  
 <!-- Banner -->
@@ -161,7 +162,7 @@
                 <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text">Simple Elegant</div>
+                    <div class="text"></div>
                   </div>
                 </div>
               </div>
