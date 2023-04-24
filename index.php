@@ -32,7 +32,7 @@
           </ul>
         </li>
         <li><a href="about.php">About</a></li>
-        <li><a href="cart.php"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
+        <li><a href="#popup1"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
       </ul>
   </nav>
 </div>
@@ -278,6 +278,17 @@
   </footer>
 
 <!-- End -->
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Cart</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			All items that have been "Added to Cart" would appear here with hatName, hatImg, and hatPrice all diplayed. There would also be a remove item button here. <br><br>
+      There would be a "Check Out" button that would bring you to a page to fill out your info, which would be entered into the database's Customer and Order Tables.
+		</div>
+	</div>
+</div>
 
 
   <script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>

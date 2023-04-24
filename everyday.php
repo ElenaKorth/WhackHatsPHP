@@ -32,7 +32,7 @@
           </ul>
         </li>
         <li><a href="about.php">About</a></li>
-        <li><a href="#"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
+        <li><a href="#popup1"><i class="fa fa-shopping-cart" style="font-size:48px;color:white"></i></a></li>
       </ul>
   </nav>
 </div>
@@ -58,7 +58,8 @@
         <img src="https://drive.google.com/uc?export=view&id=19IqE4MFPaOVdxGk6GmebC7MQGbAzXr_O" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$65.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -67,7 +68,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1x9Kae2eind1896sVFk2EFZqaBO9nc799" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$50.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -76,7 +78,8 @@
         <img src="https://drive.google.com/uc?export=view&id=123flg3e4p2tXPaRGU3CuLK4cVmFF3Ais" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$25.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -95,7 +98,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1pzoSq1mLtQnhe6viOuQP_YtuHgOw8L4N" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$30.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article></div>
     <div class="col-lg-4">
@@ -103,7 +107,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1DcRU6KiXxivn7zGdFGCl2zMGfpmhLFhm" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$25.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -112,7 +117,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1ykXK4ksRUrwPxU1kH7QaekSZN5iTpiMa" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$25.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -130,7 +136,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1rKHp_Bb4eZvKcws3fh1ep8pDRmxuvoZy" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -139,7 +146,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1zI_ktjxHsLlqrDjIW-VayGR77Vq4N7pi" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$45.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -148,7 +156,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1IGs_0DL8HJHx__N5DoLNc5O0DlKU7fPr" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$50.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -186,6 +195,18 @@
       </div>
     </footer>
 
+<!-- End -->
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Cart</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			All items that have been "Added to Cart" would appear here with hatName, hatImg, and hatPrice all diplayed. There would also be a remove item button here. <br><br>
+      There would be a "Check Out" button that would bring you to a page to fill out your info, which would be entered into the database's Customer and Order Tables.
+		</div>
+	</div>
+</div>
 
 
   <script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
