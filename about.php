@@ -67,10 +67,10 @@
     <div class="col-xs-6" style="margin-top: 50px;">
       <p>
         <h2 style=" margin-left:50%; margin-right:10%; color:white; text-indent:2ch;">
-          Our company, Whack Hats, started in 1860 with our first order being Abraham Lincoln’s commission for the top hat he wore during his first inauguration. He wrote a letter to thank us. We have become inspired by Lincoln ever since, and we have started development for our new bulletproof hats! Check out our new releases <a href="everyday.html">here</a>!
+          Our company, Whack Hats, started in 1860 when Abraham Lincoln commissioned his iconic Top hat gor his first inoguration from us. To the left you can find the handwritten letter he wrote to thank us! Once word got out that the president himself purchased a hat from us, out company skyrocketed and we have continued to flourish.
         </h2>
         <h2 style=" margin-left:50%; margin-right:10%; color:white; text-indent:2ch;">
-          Whack Hats has been flourishing ever since, and now we feature an array of hats. You can buy not only fashion hats, but also casual and costume hats.
+          With the changing of times, we have expanded our stock. Now you can find an array of hats to order here on our website; from fashion to casual to costume: we have it all.
         </h2>
       </p>
     </div>
