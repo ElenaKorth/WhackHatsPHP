@@ -21,7 +21,7 @@
   <nav class="fixed-top nav-bg">
     <img src="https://drive.google.com/uc?export=view&id=1J9w89WRqfzLlnS8A2qI3LDbfU7UYAoBm" height="125px" width="210px"></img>
       <ul>
-        <li><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search hatName keyword"></li>
+        <li><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.."></li>
         <li><a href="index.php">Home</a></li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
@@ -40,6 +40,7 @@
 
  
 <!-- Banner -->
+
 <div class="container-fluid">
     <video autoplay muted plays-inline preload="true" style="width: inherit;">
       <source src="Hats (2).mp4" type="video/mp4">
@@ -150,79 +151,79 @@
 <!-- Carousel -->
 
 
-    <div class="containerfluid potato" style="height: 765px;">
-      <div class="row">
-        <div class="col-md-3">
-          <div class="carousel slide car-center" id="slides" data-bs-ride="carousel" style="width: 420px; margin-left: 350px;">
-            <div class="carousel-indicators">
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Fashion Hat"></button>
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="1" aria-label="Costume Hat"></button>
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="2" aria-label="Everyday Hat"></button>
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="3" aria-label="Fashion Hat"></button>
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="4" aria-label="Costume Hat"></button>
-              <button type="button" data-bs-target="#slides" data-bs-slide-to="5" aria-label="Everyday Hat"></button>
-            </div>
+<div class="containerfluid potato" style="height: 765px;">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="carousel slide car-center" id="slides" data-bs-ride="carousel" style="width: 420px; margin-left: 350px;">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Fashion Hat"></button>
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="1" aria-label="Costume Hat"></button>
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="2" aria-label="Everyday Hat"></button>
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="3" aria-label="Fashion Hat"></button>
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="4" aria-label="Costume Hat"></button>
+          <button type="button" data-bs-target="#slides" data-bs-slide-to="5" aria-label="Everyday Hat"></button>
+        </div>
             
-            <div class="carousel-inner container">
-              <div class="carousel-item active">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Simple Elegant</div>
-                  </div>
-                </div>
+        <div class="carousel-inner container">
+          <div class="carousel-item active">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Simple Elegant</div>
               </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Purple Sequence</div>
-                  </div>
-                </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=1w4Uxe8iT3RsQVTKgMfTGvssosZVC3tcy">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Purple Sequence</div>
               </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1hxN0i_P11oJXdPQRyY4Qy5HIZwhL_ps9">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Little Red</div>
-                  </div>
-                </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=1hxN0i_P11oJXdPQRyY4Qy5HIZwhL_ps9">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Little Red</div>
               </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=18YpH5CRo9Sqv_kd2mL03FmLgphDGX3JU">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Boo Bucket</div>
-                  </div>
-                </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=18YpH5CRo9Sqv_kd2mL03FmLgphDGX3JU">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Boo Bucket</div>
               </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=11Zzy1ba5h8uFxQOX8PDwz5mTrXN1buRP">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Sombrero</div>
-                  </div>
-                </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=11Zzy1ba5h8uFxQOX8PDwz5mTrXN1buRP">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Sombrero</div>
               </div>
-              <div class="carousel-item">
-                <img class="image" src="https://drive.google.com/uc?export=view&id=1-0JG5J1jPp6xdkPi94ca5WYtYWFYe30I">
-                <div class="carousel-caption d-none d-md-block">
-                  <div class="middle">
-                    <div class="text">Rainbow Top Hat</div>
-                  </div>
-                </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="image" src="https://drive.google.com/uc?export=view&id=1-0JG5J1jPp6xdkPi94ca5WYtYWFYe30I">
+            <div class="carousel-caption d-none d-md-block">
+              <div class="middle">
+                <div class="text">Rainbow Top Hat</div>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-md-3"></div>
-        <div class="col-md-3"></div>
-        <div class="col-md-3">
-          <h1 style="font-size: 600%;">Try On Station</h1>
-          <p></p>
-        </div>
       </div>
     </div>
+
+    <div class="col-md-3"></div>
+    <div class="col-md-3"></div>
+    <div class="col-md-3">
+      <h1 style="font-size: 600%;">Try On Station</h1>
+    </div>
+  </div>
+</div>
 
 
 
@@ -271,17 +272,19 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
     <path fill="#F97E1A" fill-opacity="1" d="M0,192L48,202.7C96,213,192,235,288,224C384,213,480,171,576,170.7C672,171,768,213,864,224C960,235,1056,213,1152,192C1248,171,1344,149,1392,138.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-  </svg>
-  <footer style="width: 100%; background-color: #F97E1A;">
-    <div class="containerfluid mx-auto d-block" >
-      <p style="text-align: center;">
-        <a href="https://www.instagram.com/markiplier/?hl=en"><i class="fa-brands fa-instagram"  style="color: #ffffff; font-size: 40px;"></i></a>
-        <a href="https://twitter.com/Beyonce"><i class="fa-brands fa-twitter"  style="color: #ffffff; font-size: 40px;"></i></a>
-        <a href="https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"><i class="fa-brands fa-youtube" style="color: #ffffff; font-size: 40px;"></i></a>
-        <a href="https://en.wikipedia.org/wiki/Hat"><i class="fa-brands fa-wikipedia-w" style="color: #ffffff; font-size: 38px;"></i></a></p>
-      <p style="text-align: center; color: white;">definetly real copyright© to VeggieTales</p>
-    </div>
-  </footer>
+</svg>
+
+<footer style="width: 100%; background-color: #F97E1A;">
+  <div class="containerfluid mx-auto d-block" >
+    <p style="text-align: center;">
+      <a href="https://www.instagram.com/markiplier/?hl=en"><i class="fa-brands fa-instagram"  style="color: #ffffff; font-size: 40px;"></i></a>
+      <a href="https://twitter.com/Beyonce"><i class="fa-brands fa-twitter"  style="color: #ffffff; font-size: 40px;"></i></a>
+      <a href="https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"><i class="fa-brands fa-youtube" style="color: #ffffff; font-size: 40px;"></i></a>
+      <a href="https://en.wikipedia.org/wiki/Hat"><i class="fa-brands fa-wikipedia-w" style="color: #ffffff; font-size: 38px;"></i></a></p>
+    <p style="text-align: center; color: white;">definetly real copyright© to VeggieTales</p>
+  </div>
+</footer>
+
 
 <!-- End -->
 
@@ -326,8 +329,9 @@
 	</div>
 </div>
 
-  <script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
-  <script src="/script.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
+<script src="/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
 </body>
 </html>

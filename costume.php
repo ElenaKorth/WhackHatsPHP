@@ -46,6 +46,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E190FF" fill-opacity="1" d="M0,96L48,85.3C96,75,192,53,288,69.3C384,85,480,139,576,144C672,149,768,107,864,80C960,53,1056,43,1152,53.3C1248,64,1344,96,1392,112L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E190FF" fill-opacity="1" d="M0,128L48,112C96,96,192,64,288,96C384,128,480,224,576,245.3C672,267,768,213,864,165.3C960,117,1056,75,1152,64C1248,53,1344,75,1392,85.3L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
+
+
 <!-- items -->
 
 <div class="containerfluid mx-auto d-block">
@@ -99,7 +101,8 @@
           <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
-      </article></div>
+      </article>
+    </div>
     <div class="col-lg-4">
       <article id="rcorners1">
         <img src="https://drive.google.com/uc?export=view&id=1p3QBw-M9RSRhnBPNLiv8UCcm6jQG9k9B" class="card-img" height="200px" alt="Sample photo">
@@ -121,9 +124,8 @@
       </article>
     </div>
   </div>
-</div>
 
-<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 135 1440 150"><path fill="#FF7FC5" fill-opacity="1" d="M0,256L48,245.3C96,235,192,213,288,218.7C384,224,480,256,576,261.3C672,267,768,245,864,213.3C960,181,1056,139,1152,144C1248,149,1344,203,1392,229.3L1440,256L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg> -->
+</div>
 
 
 <div class="containerfluid mx-auto d-block" style="margin-top: 75px; margin-bottom: 50px;">
@@ -164,17 +166,13 @@
 </div>
 
 
-
 <div class="mx-auto d-block wide">
   <div class="text-center">
-  <input type="checkbox" class="read-more-state" id="post-1" />
-
-  <p class="read-more-wrap"><span class="read-more-target">All hats with a hatStyle of "Costume" would be displayed here.</span></p>
-  
-  <label for="post-1" class="read-more-trigger"></label>
+    <input type="checkbox" class="read-more-state" id="post-1" />
+    <p class="read-more-wrap"><span class="read-more-target">All hats with a hatStyle of "Costume" would be displayed here.</span></p>
+    <label for="post-1" class="read-more-trigger"></label>
   </div>
 </div>
-
 
 
 <!-- Footer -->
@@ -207,8 +205,9 @@
 </div>
 
 
-  <script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
-  <script src="script.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
 </body>
 </html>
