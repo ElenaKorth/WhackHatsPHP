@@ -56,7 +56,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1VlbimLQcZfiGf7Rg11BNNm-HEHppDdDL" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -66,7 +66,7 @@
         <img src="https://drive.google.com/uc?export=view&id=11Zzy1ba5h8uFxQOX8PDwz5mTrXN1buRP" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$30.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -76,7 +76,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1JxPsgYyFJ8TH-z0QelDoonjI50wFD2YU" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$50.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -96,7 +96,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1NCIodelJxrD9wM0zcNnXuBSO6in5Q6Wp" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article></div>
@@ -105,7 +105,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1p3QBw-M9RSRhnBPNLiv8UCcm6jQG9k9B" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$15.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -115,7 +115,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1f_nOnWRgEUz1DPVURVKlr9J8NWOBHJrI" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -134,7 +134,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1XScn795NMWIuN4phX0FYeXc3iBhAb2sd" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$25.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -144,7 +144,7 @@
         <img src="https://drive.google.com/uc?export=view&id=1NVkNiWWAFbdVEb7aWDc0fz3Ed_qZCf1K" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>
@@ -154,7 +154,7 @@
         <img src="https://drive.google.com/uc?export=view&id=11xUQklNSbOlaNlYDI5zg6yvBfwN36B3X" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">19.99</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
           <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article>

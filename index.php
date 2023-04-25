@@ -21,7 +21,7 @@
   <nav class="fixed-top nav-bg">
     <img src="https://drive.google.com/uc?export=view&id=1J9w89WRqfzLlnS8A2qI3LDbfU7UYAoBm" height="125px" width="210px"></img>
       <ul>
-        <li><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.."></li>
+        <li><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search hatName keyword"></li>
         <li><a href="index.php">Home</a></li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
@@ -74,7 +74,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1VlbimLQcZfiGf7Rg11BNNm-HEHppDdDL" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="#popup2" style="color: #fff;">Example</a></button>
         </div>
       </article>
     </div>
@@ -83,7 +84,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1f_nOnWRgEUz1DPVURVKlr9J8NWOBHJrI" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$20.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="#popup3" style="color: #fff;">Template</a></button>
         </div>
       </article>
     </div>
@@ -92,7 +94,8 @@
         <img src="https://drive.google.com/uc?export=view&id=123flg3e4p2tXPaRGU3CuLK4cVmFF3Ais" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$25.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -110,7 +113,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1pzoSq1mLtQnhe6viOuQP_YtuHgOw8L4N" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$30.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a href="" style="color: #fff;">Shop</a></button>
         </div>
       </article></div>
     <div class="col-lg-4">
@@ -118,7 +122,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1Tok_cZxwtgAhKAhVfb8TR693L2aU4Kfd" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$350.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -127,7 +132,8 @@
         <img src="https://drive.google.com/uc?export=view&id=1iX-b_fTI_hBDQmsxpbXA6go_poVjIgfG" class="card-img" height="200px" alt="Sample photo">
         <div class="texttwo">
           <br>
-          <button class="btn-center"><a href="" style="color: #fff">Shop Now</a></button>
+          <button id="price-btn" style="width: 75px;"><a class="price-a" href="#" style="color: #fff">$125.00</a></button>
+          <button class="btn-center" style="width: 140px;"><a style="color: #fff;">Shop</a></button>
         </div>
       </article>
     </div>
@@ -162,7 +168,7 @@
                 <img class="image" src="https://drive.google.com/uc?export=view&id=1uWbK4nF6_HTJexAENE0mDajG9MVwW5nX">
                 <div class="carousel-caption d-none d-md-block">
                   <div class="middle">
-                    <div class="text"></div>
+                    <div class="text">Simple Elegant</div>
                   </div>
                 </div>
               </div>
@@ -290,6 +296,35 @@
 	</div>
 </div>
 
+<div id="popup2" class="overlay">
+	<div class="popup">
+		<h2>Rainbow</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+      <img src="https://drive.google.com/uc?export=view&id=1VlbimLQcZfiGf7Rg11BNNm-HEHppDdDL" width="250px">
+      <div class="texttwo">
+        <br>
+        <button id="price-btn" style="width: 50px;"><a class="price-a" href="#" style="color: black">$20.00 MD</a></button>
+        <button class="btn-center" style="width: 130px;"><a style="color: #fff;">Add to Cart</a></button>
+      </div>
+		</div>
+	</div>
+</div>
+
+<div id="popup3" class="overlay">
+	<div class="popup">
+		<h2>hatName</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+      <p style="font-size: 35px;">hatImg</p>
+      <div class="texttwo">
+        <br>
+        <button id="price-btn" style="width: 50px;"><a class="price-a" href="#" style="color: black">hatPrice hatSize</a></button>
+        <button class="btn-center" style="width: 130px;"><a style="color: #fff;">Add to Cart</a></button>
+      </div>
+		</div>
+	</div>
+</div>
 
   <script src="https://kit.fontawesome.com/ecc25c0a3f.js" crossorigin="anonymous"></script>
   <script src="/script.js"></script>

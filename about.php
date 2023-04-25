@@ -78,7 +78,7 @@
 
     <!-- Letter -->
 
-    <div class="col-xs-6" style="margin-top: 7%;">
+    <div class="col-xs-6" style="margin-top: 7%; height: 100px;">
       <div class="letter-image">
 
         <div class="animated-mail">
@@ -102,23 +102,16 @@
       </div>
     </div>
   </div>
-
-
-  <div id="parent1">
-    <div id="parent2">
-      <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">           
-            <button type="button" class="btn btn-light" data-bs-dismiss="modal"><i class="fa-regular fa-circle-xmark"></i></button>
-            <div class="modal-body">
-              <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L" height="100%" width="100%"> 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
+
+
+  
+
+<div class="containerfluid">
+  <img src="https://drive.google.com/uc?export=view&id=16akZdbEL9XufHJYnalRUQW0R9pZsAijI" width="900px" style="margin-left: 30%;">
+</div>
+
+
 
     <!-- Footer -->
 
@@ -147,6 +140,22 @@
       There would be a "Check Out" button that would bring you to a page to fill out your info, which would be entered into the database's Customer and Order Tables.
 		</div>
 	</div>
+</div>
+
+<div id="parent1">
+    <div id="parent2">
+      <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">           
+            <button type="button" class="btn btn-light" data-bs-dismiss="modal"><i class="fa-regular fa-circle-xmark"></i></button>
+            <div class="modal-body">
+              <img src="https://drive.google.com/uc?export=view&id=15suXFAqZaSJPKEVTcgXQz1ixGPb9Bm-L" height="100%" width="100%"> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 
